@@ -8,12 +8,6 @@ PSD for my Japanese license plate addon
 
 # Tutorial on properly creating a normal map for your license plate texture
 
-  [YouTube Video](https://www.youtube.com/watch?v=1H-Ae4DW76s&ab_channel=Xeno)
+  [YouTube Video](https://youtu.be/4wwFOTvKwLU?si=BpiWCzugDTZ12VIB)
     
-  Photoshop and GIMP are needed
-
-  https://www.gimp.org/downloads/
-        
-  The normal map filter i am using for GIMP in the video is a plugin which can be found here
-        
-  https://code.google.com/archive/p/gimp-normalmap/downloads
+  Photoshop and VTFEdit arent required but heavily recommended
