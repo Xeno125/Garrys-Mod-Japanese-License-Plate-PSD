@@ -10,4 +10,4 @@ PSD for my Japanese license plate addon
 
   [YouTube Video](https://youtu.be/4wwFOTvKwLU?si=BpiWCzugDTZ12VIB)
     
-  Photoshop and VTFEdit arent required but heavily recommended
+  Photoshop and VTFEdit arent required but are heavily recommended
