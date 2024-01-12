@@ -6,7 +6,7 @@ PSD for my Japanese license plate addon
 
 # Tutorial on properly creating a normal map for your license plate texture
 
-  [YouTube Link]
+  [YouTube Video](https://www.youtube.com/watch?v=1H-Ae4DW76s&ab_channel=Xeno)
     
   Photoshop and GIMP are needed
 
